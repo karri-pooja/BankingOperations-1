@@ -1,5 +1,8 @@
  BankingOperations Project
  
+ src/main - for backend code
+ 
+ 
  Overview : This Bank app is a web-based application that simulates banking operations. 
             A customer can apply for an account, view their balance, and make withdrawals and deposits , transfer amount to another account. 
             An employee can aprove or deny accounts and view account balances for their customers, view all the customers of their bank.
