@@ -18,10 +18,10 @@ TODOs for future development:
   1) Can also add the auothentication process by sending OTP to their mobile number for every operation rather than using ID and Password.
    
 # Getting Started :
-   git clone https://github.com/karri-pooja/BankingOperations-1.git
-   import the folder to eclipse.
-   Start the Tomcat server.
-   Run the project.   
+   1) git clone https://github.com/karri-pooja/BankingOperations-1.git
+   2) import the folder to eclipse.
+   3) Start the Tomcat server.
+   4) Run the project.   
  
 
   
