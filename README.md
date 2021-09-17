@@ -1,5 +1,5 @@
 # BankingOperations Project
-  src/main/java - for backend code
+  src/main/java - for backend code, 
   src/main/webapp - for frontend code
  
 # Project Description:
@@ -8,11 +8,20 @@
   An employee can aprove or deny accounts and view account balances for their customers, view all the customers of their bank.
  
 # Technologies Used : 
-  Java, PostgreSQL, JDBC, Hibernate, HTML, JavaScript, CSS, Java script, Bootstrap.
+  Java, PostgreSQL, JDBC, Hibernate, HTML, JavaScript, CSS, Java script, Bootstrap, Tomcat Server.
+  
+# Features:
+  A customer can apply for an account.
+  A customer can view their balance.
+  A customer can make withdrawals.
    
 # Getting Started :
-   git clone 
- 
+   git clone https://github.com/karri-pooja/BankingOperations-1.git
+   import the folder to eclipse.
+   Start the Tomcat server.
+   Run the project.   
+   
 # Usage :
+
   
    
