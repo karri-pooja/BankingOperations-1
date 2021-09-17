@@ -11,12 +11,11 @@
   Java, PostgreSQL, JDBC, Hibernate, HTML, JavaScript, CSS, Java script, Bootstrap, Tomcat Server.
   
 # Features:
-List of features ready and TODOs for future development:
+List of features ready:
   1) As a customer can apply for an account, view their balance, and make withdrawals and deposits , transfer amount to another account.
   2) As an employee can aprove or deny accounts and view account balances for their customers, view all the customers of their bank.
-
-# To Do:
-Can also add the auothentication process by sending OTP to their mobile number for every operation rather than using ID and Password.
+TODOs for future development:
+  1) Can also add the auothentication process by sending OTP to their mobile number for every operation rather than using ID and Password.
    
 # Getting Started :
    git clone https://github.com/karri-pooja/BankingOperations-1.git
