@@ -14,7 +14,7 @@
 List of features ready:
   1) As a customer can apply for an account, view their balance, and make withdrawals and deposits , transfer amount to another account.
   2) As an employee can aprove or deny accounts and view account balances for their customers, view all the customers of their bank.
-TODOs for future development:
+- TODOs for future development:
   1) Can also add the auothentication process by sending OTP to their mobile number for every operation rather than using ID and Password.
    
 # Getting Started :
