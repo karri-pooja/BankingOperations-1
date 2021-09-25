@@ -1,6 +1,8 @@
 # BankingOperations Project
-  src/main/java - for backend code, 
-  src/main/webapp - for frontend code
+  <ul>
+  <li>src/main/java - for backend code</li> 
+  <li>src/main/webapp - for frontend code</li>
+  </ul>
  
 # Project Description:
   This Bank app is a web-based application that simulates banking operations. 
